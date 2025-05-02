@@ -18,6 +18,7 @@
 ```bash
 git clone https://github.com/your-username/skillquest.git
 cd skillquest
+
 2. Backend setup
 bash
 cd backend
@@ -25,6 +26,7 @@ npm install
 cp .env.example .env  # Add your DB URL and JWT secret
 npx prisma migrate dev
 npm run dev
+
 3. Frontend setup
 bash
 cd ../frontend
