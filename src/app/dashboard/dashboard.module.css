@@ -1,0 +1,176 @@
+/* src/app/dashboard/dashboard.module.css */
+
+.container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background-color: #f0f4ff;
+}
+
+/* Header styles */
+.header {
+  background-color: #2c3e8e;
+  color: white;
+  padding: 15px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  font-size: 22px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+}
+
+.logo span {
+  margin-left: 10px;
+}
+
+.nav {
+  display: flex;
+  gap: 30px;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.profile {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.avatar {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+.avatarImg {
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* Main content */
+.main {
+  flex: 1;
+  padding: 30px;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.welcomeSection {
+  margin-bottom: 40px;
+}
+
+.welcomeTitle {
+  font-size: 32px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.welcomeText {
+  font-size: 18px;
+  color: #666;
+}
+
+.dashboardGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 30px;
+}
+
+.card {
+  background-color: white;
+  border-radius: 12px;
+  padding: 25px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+}
+
+.card h2 {
+  font-size: 22px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.questInfo, .quizInfo, .achievementInfo {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin-bottom: 25px;
+}
+
+.quizInfo {
+  flex-direction: column;
+  text-align: center;
+}
+
+.questIcon, .quizIcon, .achievementIcon {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  background-color: #f0f4ff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.progressBar {
+  height: 10px;
+  background-color: #eee;
+  border-radius: 5px;
+  margin: 10px 0;
+  overflow: hidden;
+}
+
+.progressFill {
+  height: 100%;
+  background-color: #4CAF50;
+  border-radius: 5px;
+}
+
+.button {
+  display: inline-block;
+  background-color: #5664d2;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 6px;
+  text-decoration: none;
+  font-weight: 500;
+  text-align: center;
+  transition: background-color 0.3s;
+}
+
+.button:hover {
+  background-color: #4352c8;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    gap: 15px;
+    padding: 15px;
+  }
+
+  .nav {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .profile {
+    margin-top: 10px;
+  }
+
+  .dashboardGrid {
+    grid-template-columns: 1fr;
+  }
+}
