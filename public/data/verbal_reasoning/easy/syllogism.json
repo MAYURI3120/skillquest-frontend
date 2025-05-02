@@ -1,0 +1,392 @@
+[
+  {
+    "Statement": "Some actors are singers. All the singers are dancers.",
+    "Conclusion 1": "Some actors are dancers.",
+    "Conclusion 2": "No singer is actor.",
+    "Result class": "A"
+  },
+  {
+    "Statement": "All the harmoniums are instruments. All the instruments are flutes.",
+    "Conclusion 1": "All the flutes are instruments.",
+    "Conclusion 2": "All the harmoniums are flutes.",
+    "Result class": "B"
+  },
+  {
+    "Statement": "Some mangoes are yellow. Some tixo are mangoes.",
+    "Conclusion 1": "Some mangoes are green.",
+    "Conclusion 2": "Tixo is a yellow.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "Some ants are parrots. All the parrots are apples.",
+    "Conclusion 1": "All the apples are parrots.",
+    "Conclusion 2": "Some ants are apples.",
+    "Result class": "B"
+  },
+  {
+    "Statement": "Some papers are pens. All the pencils are pens.",
+    "Conclusion 1": "Some pens are pencils.",
+    "Conclusion 2": "Some pens are papers.",
+    "Result class": "E"
+  },
+  {
+    "Statement": "All the actors are girls. All the girls are beautiful.",
+    "Conclusion 1": "All the actors are beautiful.",
+    "Conclusion 2": "Some girls are actors.",
+    "Result class": "E"
+  },
+  {
+    "Statement": "All the windows are doors. No door is a wall.",
+    "Conclusion 1": "Some windows are walls.",
+    "Conclusion 2": "No wall is a door.",
+    "Result class": "B"
+  },
+  {
+    "Statement": "All cups are books. All books are shirts.",
+    "Conclusion 1": "Some cups are not shirts.",
+    "Conclusion 2": "Some shirts are cups.",
+    "Result class": "B"
+  },
+  {
+    "Statement": "Some cows are crows. Some crows are elephants.",
+    "Conclusion 1": "Some cows are elephants.",
+    "Conclusion 2": "All crows are elephants.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "All the pencils are pens. All the pens are inks.",
+    "Conclusion 1": "All the pencils are inks.",
+    "Conclusion 2": "Some inks are pencils.",
+    "Result class": "E"
+  },
+  {
+    "Statement": "Some dogs are bats. Some bats are cats.",
+    "Conclusion 1": "Some dogs are cats.",
+    "Conclusion 2": "Some cats are dogs.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "All the trucks are flies. Some scooters are flies.",
+    "Conclusion 1": "All the trucks are scooters.",
+    "Conclusion 2": "Some scooters are trucks.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "All buildings are chalks. No chalk is toffee.",
+    "Conclusion 1": "No building is toffee",
+    "Conclusion 2": "All chalks are buildings.",
+    "Result class": "A"
+  },
+  {
+    "Statement": "All cars are cats. All fans are cats.",
+    "Conclusion 1": "All cars are fans.",
+    "Conclusion 2": "Some fans are cars.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "No women teacher can play. Some women teachers are athletes.",
+    "Conclusion 1": "Male athletes can play.",
+    "Conclusion 2": "Some athletes can play.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "All bags are cakes. All lamps are cakes.",
+    "Conclusion 1": "Some lamps are bags.",
+    "Conclusion 2": "No lamp is bag.",
+    "Result class": "C"
+  },
+  {
+    "Statement": "All mangoes are golden in colour. No golden-coloured things are cheap.",
+    "Conclusion 1": "All mangoes are cheap.",
+    "Conclusion 2": "Golden-coloured mangoes are not cheap.",
+    "Result class": "B"
+  },
+  {
+    "Statement": "Some kings are queens. All queens are beautiful.",
+    "Conclusion 1": "All kings are beautiful",
+    "Conclusion 2": "All queens are kings.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "Some doctors are fools. Some fools are rich.",
+    "Conclusion 1": "Some doctors are rich",
+    "Conclusion 2": "Some rich are doctors.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "All roads are waters. Some waters are boats.",
+    "Conclusion 1": "Some boats are roads.",
+    "Conclusion 2": "All waters are boats.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "No bat is ball. No ball is wicket.",
+    "Conclusion 1": "No bat is wicket.",
+    "Conclusion 2": "All wickets are bats.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "All flowers are trees. No fruit is tree.",
+    "Conclusion 1": "No fruit is flower.",
+    "Conclusion 2": "Some trees are flowers.",
+    "Result class": "E"
+  },
+  {
+    "Statement": "Every minister is a student. Every student is inexperienced.",
+    "Conclusion 1": "Every minister is inexperienced.",
+    "Conclusion 2": "Some inexperienced are students.",
+    "Result class": "E"
+  },
+  {
+    "Statement": "All roads are poles. No pole is a house.",
+    "Conclusion 1": "Some roads are houses.",
+    "Conclusion 2": "Some houses are poles.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "All fish are tortoise. No tortoise is a crocodile.",
+    "Conclusion 1": "No crocodile is a fish.",
+    "Conclusion 2": "No fish is a crocodile.",
+    "Result class": "E"
+  },
+  {
+    "Statement": "Some dedicated souls are angels. All social workers are angels.",
+    "Conclusion 1": "Some dedicated souls are social workers.",
+    "Conclusion 2": "Some social workers are dedicated souls.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "No gentleman is poor. All gentlemen are rich.",
+    "Conclusion 1": "No poor man is rich.",
+    "Conclusion 2": "No rich man is poor.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "Some swords are sharp. All swords are rusty",
+    "Conclusion 1": "Some rusty things are sharp.",
+    "Conclusion 2": "Some rusty things are not sharp.",
+    "Result class": "A"
+  },
+  {
+    "Statement": "All fishes are grey in colour. Some fishes are heavy.",
+    "Conclusion 1": "All heavy fishes are grey in colour.",
+    "Conclusion 2": "All light fishes are not grey in colour.",
+    "Result class": "A"
+  },
+  {
+    "Statement": "All good athletes win. All good athletes eat well.",
+    "Conclusion 1": "All those who eat well are good athletes.",
+    "Conclusion 2": "All those who win eat well.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "All film stars are playback singers. All film directors are film stars.",
+    "Conclusion 1": "All film directors are playback singers.",
+    "Conclusion 2": "Some film stars are film directors.",
+    "Result class": "E"
+  },
+  {
+    "Statement": "All hill stations have a sun-set point. X is a hill station.",
+    "Conclusion 1": "X has a sun-set point.",
+    "Conclusion 2": "Places other than hill stations do not have sun-set points.",
+    "Result class": "A"
+  },
+  {
+    "Statement": "Some dreams are nights. Some nights are days.",
+    "Conclusion 1": "All days are either nights or dreams.",
+    "Conclusion 2": "Some days are nights.",
+    "Result class": "B"
+  },
+  {
+    "Statement": "All jungles are tigers. Some tigers are horses.",
+    "Conclusion 1": "Some horses are jungles.",
+    "Conclusion 2": "No horse is jungle.",
+    "Result class": "C"
+  },
+  {
+    "Statement": "All poles are guns. Some boats are not poles.",
+    "Conclusion 1": "All guns are boats.",
+    "Conclusion 2": "Some boats are not guns.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "Many scooters are trucks. All trucks are trains.",
+    "Conclusion 1": "Some scooters are trains.",
+    "Conclusion 2": "No truck is a scooter.",
+    "Result class": "A"
+  },
+  {
+    "Statement": "Some papers are pens. Angle is a paper.",
+    "Conclusion 1": "Angle is not a pen.",
+    "Conclusion 2": "Angle is a pen.",
+    "Result class": "c"
+  },
+  {
+    "Statement": "All birds are tall. Some tall are hens.",
+    "Conclusion 1": "Some birds are hens.",
+    "Conclusion 2": "Some hens are tall.",
+    "Result class": "B"
+  },
+  {
+    "Statement": "Some papers are pens. Some pencils are pens.",
+    "Conclusion 1": "Some pens are pencils.",
+    "Conclusion 2": "Some pens are papers.",
+    "Result class": "E"
+  },
+  {
+    "Statement": "Some men are educated. Educated persons prefer small families.",
+    "Conclusion 1": "All small families are educated.",
+    "Conclusion 2": "Some men prefer small families.",
+    "Result class": "B"
+  },
+  {
+    "Statement": "All educated people read newspapers. Rahul does not read newspaper.",
+    "Conclusion 1": "Rahul is not educated.",
+    "Conclusion 2": "Reading newspaper is not essential to be educated.",
+    "Result class": "A"
+  },
+  {
+    "Statement": "All pens are chalks. All chairs are chalks.",
+    "Conclusion 1": "Some pens are chairs.",
+    "Conclusion 2": "Some chalks are pens.",
+    "Result class": "B"
+  },
+  {
+    "Statement": "Bureaucrats marry only intelligent girls. Tanya is very intelligent.",
+    "Conclusion 1": "Tanya will marry a bureaucrat.",
+    "Conclusion 2": "Tanya will not marry a bureaucrat.",
+    "Result class": "C"
+  },
+  {
+    "Statement": "Some engineers are fools. Anand is an engineer.",
+    "Conclusion 1": "Some fools are engineers.",
+    "Conclusion 2": "Anand is a fool.",
+    "Result class": "A"
+  },
+  {
+    "Statement": "All windows are doors. No door is wall.",
+    "Conclusion 1": "No window is wall.",
+    "Conclusion 2": "No wall is door.",
+    "Result class": "E"
+  },
+  {
+    "Statement": "Most teachers are boys. Some boys are students.",
+    "Conclusion 1": "Some students are boys.",
+    "Conclusion 2": "Some teachers are students.",
+    "Result class": "A"
+  },
+  {
+    "Statement": "No man is a donkey. Rahul is a man.",
+    "Conclusion 1": "Rahul is not a donkey.",
+    "Conclusion 2": "All men are not Rahul.",
+    "Result class": "A"
+  },
+  {
+    "Statement": "Some books are pens. No pen is pencil.",
+    "Conclusion 1": "Some books are pencils.",
+    "Conclusion 2": "No book is pencil.",
+    "Result class": "C"
+  },
+  {
+    "Statement": "All men are married. Some men are educated.",
+    "Conclusion 1": "Some married are educated.",
+    "Conclusion 2": "Some educated are married.",
+    "Result class": "E"
+  },
+  {
+    "Statement": "All tubes are handles. All cups are handles.",
+    "Conclusion 1": "All cups are tubes.",
+    "Conclusion 2": "Some handles are not cups.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "No magazine is cap. All caps are cameras.",
+    "Conclusion 1": "No camera is magazine.",
+    "Conclusion 2": "Some cameras are magazines.",
+    "Result class": "C"
+  },
+  {
+    "Statement": "All huts are mansions. All mansions are temples.",
+    "Conclusion 1": "Some temples are huts.",
+    "Conclusion 2": "Some temples are mansions.",
+    "Result class": "E"
+  },
+  {
+    "Statement": "Some books are tables. Some tables are mirrors.",
+    "Conclusion 1": "Some mirrors are books.",
+    "Conclusion 2": "No book is mirror.",
+    "Result class": "C"
+  },
+  {
+    "Statement": "All trucks fly. Some scooters fly.",
+    "Conclusion 1": "All trucks are scooters.",
+    "Conclusion 2": "Some scooters do not fly.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "Raman is always successful. No fool is always successful.",
+    "Conclusion 1": "Raman is a fool.",
+    "Conclusion 2": "Raman is not a fool.",
+    "Result class": "B"
+  },
+  {
+    "Statement": "Some desks are caps. No cap is red.",
+    "Conclusion 1": "Some caps are desks.",
+    "Conclusion 2": "No desk is red.",
+    "Result class": "A"
+  },
+  {
+    "Statement": "Some hens are cows. All cows are horses.",
+    "Conclusion 1": "Some horses are hens.",
+    "Conclusion 2": "Some hens are horses.",
+    "Result class": "E"
+  },
+  {
+    "Statement": "All water is divine. All temples are divine.",
+    "Conclusion 1": "All water is temple.",
+    "Conclusion 2": "All temples are water.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "All men are dogs. All dogs are cats.",
+    "Conclusion 1": "All men are cats.",
+    "Conclusion 2": "All cats are men.",
+    "Result class": "A"
+  },
+  {
+    "Statement": "All young scientists are open-minded. No open-minded men are superstitious.",
+    "Conclusion 1": "No scientist is superstitious.",
+    "Conclusion 2": "No young people are superstitious.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "Some pastries are toffees. All toffees are chocolates.",
+    "Conclusion 1": "Some chocolates are toffees.",
+    "Conclusion 2": "Some toffees are not pastries.",
+    "Result class": "A"
+  },
+  {
+    "Statement": "All boys are honest. Sachin is honest.",
+    "Conclusion 1": "Sachin is a boy.",
+    "Conclusion 2": "All honest persons are boys.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "All pens are roads. All roads are houses.",
+    "Conclusion 1": "All houses are pens.",
+    "Conclusion 2": "Some houses are pens.",
+    "Result class": "B"
+  },
+  {
+    "Statement": "All artists are smokers. Some smokers are drunkards.",
+    "Conclusion 1": "All smokers are artists.",
+    "Conclusion 2": "Some drunkards are not smokers.",
+    "Result class": "D"
+  },
+  {
+    "Statement": "All cars are cats. All fans are cats.",
+    "Conclusion 1": "All cars are fans",
+    "Conclusion 2": "Some fans are cars.",
+    "Result class": "D"
+  }
+]

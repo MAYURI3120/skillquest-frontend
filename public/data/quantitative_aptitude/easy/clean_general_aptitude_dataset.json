@@ -1,0 +1,1282 @@
+[
+  {
+    "Question": "There are two examination rooms A and B. If 10 students are sent from A to B, then the number of students in each room is the same. If 20 candidates are sent from B to A, then the number of students in A is double the number of students in B. The number of students in room A is:",
+    "Option A": 20,
+    "Option B": 80,
+    "Option C": 100,
+    "Option D": 200,
+    "Answer": "C"
+  },
+  {
+    "Question": "The price of commodity X increases by 40 paise every year, while the price of commodity Y increases by 15 paise every year. If in 2001, the price of commodity X was Rs. 4.20 and that of Y was Rs. 6.30, in which year will commodity X cost 40 paise more than commodity Y?",
+    "Option A": 2010,
+    "Option B": 2011,
+    "Option C": 2012,
+    "Option D": 2013,
+    "Answer": "B"
+  },
+  {
+    "Question": "If a - b = 3 and a² + b² = 29, find the value of ab.",
+    "Option A": 10,
+    "Option B": 12,
+    "Option C": 15,
+    "Option D": 18,
+    "Answer": "A"
+  },
+  {
+    "Question": "The salaries A, B, and C are in the ratio 2:3:5. If increments of 15%, 10%, and 20% are allowed in their salaries, then what will be the new ratio of their salaries?",
+    "Option A": "03:03:10",
+    "Option B": "10:11:20",
+    "Option C": 0.981944444,
+    "Option D": "Cannot be determined",
+    "Answer": "C"
+  },
+  {
+    "Question": "A and B entered into a partnership with capitals in the ratio 4:5. After 3 months, A withdrew some capital and B withdrew some of his capital. The gain at the end of 10 months was Rs. 760. A's share in the profit is:",
+    "Option A": "Rs. 330",
+    "Option B": "Rs. 360",
+    "Option C": "Rs. 380",
+    "Option D": "Rs. 430",
+    "Answer": "A"
+  },
+  {
+    "Question": "What is R's share of profit in a joint venture? I. Q started business investing Rs. 80,000. II. R joined him after 3 months. III. P joined after 4 months with a capital of Rs. 1,20,000 and got Rs. 6000 as his share profit.",
+    "Option A": "All I, II, and III",
+    "Option B": "I and III only",
+    "Option C": "II and III only",
+    "Option D": "Even with all I, II, and III, the answer cannot be arrived at",
+    "Answer": "D"
+  },
+  {
+    "Question": "A alone can do a piece of work in 6 days and B alone in 8 days. A and B undertook to do it for Rs. 3200. With the help of C, they completed the work in 3 days. How much is to be paid to C?",
+    "Option A": "Rs. 375",
+    "Option B": "Rs. 400",
+    "Option C": "Rs. 600",
+    "Option D": "Rs. 800",
+    "Answer": "B"
+  },
+  {
+    "Question": "A goods train runs at the speed of 72 kmph and crosses a 250 m long platform in 26 seconds. What is the length of the goods train?",
+    "Option A": "230 m",
+    "Option B": "240 m",
+    "Option C": "260 m",
+    "Option D": "270 m",
+    "Answer": "D"
+  },
+  {
+    "Question": "If log10 2 = 0.3010, then log2 10 is equal to:",
+    "Option A": 699,
+    "Option B": 1000,
+    "Option C": 0.301,
+    "Option D": 0.699,
+    "Answer": "B"
+  },
+  {
+    "Question": "An error of 2% in excess is made while measuring the side of a square. The percentage of error in the calculated area of the square is:",
+    "Option A": "2%",
+    "Option B": "2.02%",
+    "Option C": "4%",
+    "Option D": "4.04%",
+    "Answer": "D"
+  },
+  {
+    "Question": "In a shower, 5 cm of rain falls. The volume of water that falls on 1.5 hectares of ground is:",
+    "Option A": "75 cu. m",
+    "Option B": "750 cu. m",
+    "Option C": "7500 cu. m",
+    "Option D": "75000 cu. m",
+    "Answer": "B"
+  },
+  {
+    "Question": "What is the volume of a cube? I. The area of each face of the cube is 64 square metres. II. The length of one side of the cube is 8 metres.",
+    "Option A": "I alone sufficient while II alone not sufficient",
+    "Option B": "II alone sufficient while I alone not sufficient",
+    "Option C": "Either I or II alone sufficient to answer",
+    "Option D": "Both I and II are not sufficient",
+    "Answer": "C"
+  },
+  {
+    "Question": "The reflex angle between the hands of a clock at 10:25 is:",
+    "Option A": "180º",
+    "Option B": "192.5º",
+    "Option C": "195º",
+    "Option D": "197.5º",
+    "Answer": "D"
+  },
+  {
+    "Question": "At what time between 4 and 5 o'clock will the hands of a watch point in opposite directions?",
+    "Option A": "45 min past 4",
+    "Option B": "40 min past 4",
+    "Option C": "50.4 min past 4",
+    "Option D": "54.6 min past 4",
+    "Answer": "D"
+  },
+  {
+    "Question": "A 12% stock yielding 10% is quoted at:",
+    "Option A": "Rs. 83.33",
+    "Option B": "Rs. 110",
+    "Option C": "Rs. 112",
+    "Option D": "Rs. 120",
+    "Answer": "D"
+  },
+  {
+    "Question": "In how many different ways can the letters of the word 'DETAIL' be arranged in such a way that the vowels occupy only the odd positions?",
+    "Option A": 32,
+    "Option B": 48,
+    "Option C": 36,
+    "Option D": 60,
+    "Answer": "C"
+  },
+  {
+    "Question": "An observer 1.6 m tall is 203 m away from a tower. The angle of elevation from his eye to the top of the tower is 30º. The height of the tower is:",
+    "Option A": "21.6 m",
+    "Option B": "23.2 m",
+    "Option C": "24.72 m",
+    "Option D": "None of these",
+    "Answer": "A"
+  },
+  {
+    "Question": "Find the odd one out: 1, 4, 9, 16, 23, 25, 36",
+    "Option A": 9,
+    "Option B": 23,
+    "Option C": 25,
+    "Option D": 36,
+    "Answer": "B"
+  },
+  {
+    "Question": "Let N be the greatest number that will divide 1305, 4665, and 6905, leaving the same remainder in each case. The sum of the digits in N is:",
+    "Option A": 4,
+    "Option B": 5,
+    "Option C": 6,
+    "Option D": 8,
+    "Answer": "A"
+  },
+  {
+    "Question": "The average weight of 8 persons increases by 2.5 kg when a new person comes in place of one of them weighing 65 kg. What might be the weight of the new person?",
+    "Option A": "76 kg",
+    "Option B": "76.5 kg",
+    "Option C": "85 kg",
+    "Option D": "Data inadequate",
+    "Answer": "C"
+  },
+  {
+    "Question": "The difference between a two-digit number and the number obtained by interchanging the digits is 36. What is the difference between the sum and the difference of the digits of the number if the ratio between the digits of the number is 1:2?",
+    "Option A": 4,
+    "Option B": 8,
+    "Option C": 16,
+    "Option D": "None of these",
+    "Answer": "B"
+  },
+  {
+    "Question": "The sum of the present ages of a father and his son is 60 years. Six years ago, the father's age was five times the son's age. After 6 years, the son's age will be:",
+    "Option A": "12 years",
+    "Option B": "14 years",
+    "Option C": "18 years",
+    "Option D": "20 years",
+    "Answer": "D"
+  },
+  {
+    "Question": "Three candidates contested an election and received 1136, 7636, and 11628 votes, respectively. What percentage of the total votes did the winning candidate get?",
+    "Option A": "57%",
+    "Option B": "60%",
+    "Option C": "65%",
+    "Option D": "90%",
+    "Answer": "A"
+  },
+  {
+    "Question": "In a certain store, the profit is 320% of the cost. If the cost increases by 25% but the selling price remains constant, approximately what percentage of the selling price is the profit?",
+    "Option A": "30%",
+    "Option B": "70%",
+    "Option C": "100%",
+    "Option D": "250%",
+    "Answer": "B"
+  },
+  {
+    "Question": "If the cost of x meters of wire is d rupees, then what is the cost of y meters of wire at the same rate?",
+    "Option A": "Rs. (xy/d)",
+    "Option B": "Rs. (xd)",
+    "Option C": "Rs. (yd)",
+    "Option D": "Rs. (yd/x)",
+    "Answer": "D"
+  },
+  {
+    "Question": "A flagstaff 17.5 m high casts a shadow of length 40.25 m. The height of a building, which casts a shadow of length 28.75 m under similar conditions, will be:",
+    "Option A": "10 m",
+    "Option B": "12.5 m",
+    "Option C": "17.5 m",
+    "Option D": "21.25 m",
+    "Answer": "B"
+  },
+  {
+    "Question": "In how many days can 10 women finish a work? I. 10 men can complete the work in 6 days. II. 10 men and 10 women together can complete the work in 3 3/7 days. III. If 10 men work for 3 days and then 10 women replace them, the remaining work is completed in 4 days.",
+    "Option A": "Any two of the three",
+    "Option B": "I and II only",
+    "Option C": "II and III only",
+    "Option D": "I and III only",
+    "Answer": "A"
+  },
+  {
+    "Question": "8 men and 14 women are working together in a field. After 3 days, 5 men and 8 women leave. How many more days will be required to complete the work? I. 19 men and 12 women together can complete the work in 18 days. II. 16 men can complete two-thirds of the work in 16 days. III. In 1 day, the work done by three men is equal to the work done by four women.",
+    "Option A": "I only",
+    "Option B": "II only",
+    "Option C": "III only",
+    "Option D": "I, II, or III",
+    "Answer": "D"
+  },
+  {
+    "Question": "A towel, when bleached, was found to have lost 20% of its length and 10% of its breadth. The percentage decrease in area is:",
+    "Option A": "10%",
+    "Option B": "10.08%",
+    "Option C": "20%",
+    "Option D": "28%",
+    "Answer": "D"
+  },
+  {
+    "Question": "What is the capacity of a cylindrical tank? I. Radius of the base is half of its height which is 28 metres. II. Area of the base is 616 sq. metres and its height is 28 metres.",
+    "Option A": "I alone sufficient while II alone not sufficient",
+    "Option B": "II alone sufficient while I alone not sufficient",
+    "Option C": "Either I or II alone sufficient to answer",
+    "Option D": "Both I and II are not sufficient",
+    "Answer": "C"
+  },
+  {
+    "Question": "In a 100 m race, A covers the distance in 36 seconds and B in 45 seconds. In this race, A beats B by:",
+    "Option A": "20 m",
+    "Option B": "25 m",
+    "Option C": "22.5 m",
+    "Option D": "9 m",
+    "Answer": "A"
+  },
+  {
+    "Question": "A 6% stock yields 8%. The market value of the stock is:",
+    "Option A": "Rs. 48",
+    "Option B": "Rs. 75",
+    "Option C": "Rs. 96",
+    "Option D": "Rs. 133.33",
+    "Answer": "B"
+  },
+  {
+    "Question": "A box contains 2 white balls, 3 black balls, and 4 red balls. In how many ways can 3 balls be drawn from the box, if at least one black ball is to be included in the draw?",
+    "Option A": 32,
+    "Option B": 48,
+    "Option C": 64,
+    "Option D": 96,
+    "Answer": "C"
+  },
+  {
+    "Question": "If Rs. 10 is allowed as true discount on a bill of Rs. 110 due at the end of a certain time, then the discount allowed on the same sum due at the end of double the time is:",
+    "Option A": "Rs. 20",
+    "Option B": "Rs. 21.81",
+    "Option C": "Rs. 22",
+    "Option D": "Rs. 18.33",
+    "Answer": "D"
+  },
+  {
+    "Question": "10, 14, 16, 18, 21, 24, 26 – find the odd one out.",
+    "Option A": 26,
+    "Option B": 24,
+    "Option C": 21,
+    "Option D": 18,
+    "Answer": "C"
+  },
+  {
+    "Question": "835, 734, 642, 751, 853, 981, 532 – find the odd one out.",
+    "Option A": 751,
+    "Option B": 853,
+    "Option C": 981,
+    "Option D": 532,
+    "Answer": "A"
+  },
+  {
+    "Question": "1, 2, 6, 15, 31, 56, 91 – find the wrong number in the sequence.",
+    "Option A": 31,
+    "Option B": 91,
+    "Option C": 56,
+    "Option D": 15,
+    "Answer": "B"
+  },
+  {
+    "Question": "7, 26, 63, 124, 215, 342 – find the next number in the series.",
+    "Option A": 481,
+    "Option B": 511,
+    "Option C": 391,
+    "Option D": 421,
+    "Answer": "B"
+  },
+  {
+    "Question": "Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively and they cross each other in 23 seconds. The ratio of their speeds is:",
+    "Option A": "1:3",
+    "Option B": "3:2",
+    "Option C": "3:4",
+    "Option D": "None of these",
+    "Answer": "B"
+  },
+  {
+    "Question": "A train overtakes two persons walking along a railway track. The first one walks at 4.5 km/hr, and the other at 5.4 km/hr. The train needs 8.4 and 8.5 seconds respectively to overtake them. What is the speed of the train if both the persons are walking in the same direction as the train?",
+    "Option A": "66 km/hr",
+    "Option B": "72 km/hr",
+    "Option C": "78 km/hr",
+    "Option D": "81 km/hr",
+    "Answer": "D"
+  },
+  {
+    "Question": "A runs 1.5 times as fast as B. If A gives B a start of 80 m, how far must the winning post be so that A and B might reach it at the same time?",
+    "Option A": "200 m",
+    "Option B": "300 m",
+    "Option C": "270 m",
+    "Option D": "160 m",
+    "Answer": "A"
+  },
+  {
+    "Question": "Q is as much younger than R as he is older than T. If the sum of the ages of R and T is 50 years, what is definitely the difference between R and Q's age?",
+    "Option A": "1 year",
+    "Option B": "2 years",
+    "Option C": "25 years",
+    "Option D": "Data inadequate",
+    "Answer": "D"
+  },
+  {
+    "Question": "The value of log2 16 is:",
+    "Option A": "1/8",
+    "Option B": 4,
+    "Option C": 8,
+    "Option D": 16,
+    "Answer": "B"
+  },
+  {
+    "Question": "In a two-digit number, it is known that its unit’s digit exceeds its ten’s digit by 2 and that the product of the given number and the sum of its digits is equal to 144. The number is:",
+    "Option A": 24,
+    "Option B": 26,
+    "Option C": 42,
+    "Option D": 46,
+    "Answer": "A"
+  },
+  {
+    "Question": "The square root of 64009 is:",
+    "Option A": 253,
+    "Option B": 347,
+    "Option C": 363,
+    "Option D": 803,
+    "Answer": "A"
+  },
+  {
+    "Question": "What should come in place of both 'x' in the equation x/128 = 162/x?",
+    "Option A": 12,
+    "Option B": 14,
+    "Option C": 144,
+    "Option D": 196,
+    "Answer": "A"
+  },
+  {
+    "Question": "A, B, and C can do a piece of work in 20, 30, and 60 days respectively. In how many days can A do the work if he is assisted by B and C on every third day?",
+    "Option A": "12 days",
+    "Option B": "15 days",
+    "Option C": "16 days",
+    "Option D": "18 days",
+    "Answer": "B"
+  },
+  {
+    "Question": "The value of 489.1375 × 0.0483 × 1.956 is closest to:",
+    "Option A": 0.006,
+    "Option B": 0.06,
+    "Option C": 0.6,
+    "Option D": 6,
+    "Answer": "B"
+  },
+  {
+    "Question": "Three numbers are in the ratio of 3:4:5, and their LCM is 2400. Their HCF is:",
+    "Option A": 40,
+    "Option B": 80,
+    "Option C": 120,
+    "Option D": 200,
+    "Answer": "A"
+  },
+  {
+    "Question": "Which of the following fractions is the largest?",
+    "Option A": "7/8",
+    "Option B": "13/16",
+    "Option C": "31/40",
+    "Option D": "63/80",
+    "Answer": "A"
+  },
+  {
+    "Question": "A sum of Rs. 725 is lent at the beginning of a year at a certain rate of interest. After 8 months, a sum of Rs. 362.50 more is lent, but at double the previous rate. At the end of the year, Rs. 33.50 is earned as interest from both loans. What was the original rate of interest?",
+    "Option A": "3.60%",
+    "Option B": "4.50%",
+    "Option C": "5%",
+    "Option D": "None of these",
+    "Answer": "D"
+  },
+  {
+    "Question": "An accurate clock shows 8 o'clock in the morning. Through how many degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?",
+    "Option A": "144º",
+    "Option B": "150º",
+    "Option C": "168º",
+    "Option D": "180º",
+    "Answer": "D"
+  },
+  {
+    "Question": "From a group of 7 men and 6 women, five persons are to be selected to form a committee so that at least 3 men are on the committee. In how many ways can it be done?",
+    "Option A": 564,
+    "Option B": 645,
+    "Option C": 735,
+    "Option D": 756,
+    "Answer": "D"
+  },
+  {
+    "Question": "A dishonest milkman professes to sell his milk at cost price but he mixes it with water and thereby gains 25%. The percentage of water in the mixture is:",
+    "Option A": "4%",
+    "Option B": "6%",
+    "Option C": "20%",
+    "Option D": "25%",
+    "Answer": "C"
+  },
+  {
+    "Question": "A vessel is filled with liquid, 3 parts of which are water and 5 parts syrup. How much of the mixture must be drawn off and replaced with water so that the mixture may be half water and half syrup?",
+    "Option A": "1/3",
+    "Option B": "1/4",
+    "Option C": "1/5",
+    "Option D": "1/6",
+    "Answer": "C"
+  },
+  {
+    "Question": "The cost price of Rs. 100 stock at 4% discount, when brokerage is 1/4%, is:",
+    "Option A": "Rs. 95.75",
+    "Option B": "Rs. 96",
+    "Option C": "Rs. 96.25",
+    "Option D": "Rs. 104.25",
+    "Answer": "C"
+  },
+  {
+    "Question": "If 40% of a number is equal to two-third of another number, what is the ratio of the first number to the second number?",
+    "Option A": "02:05",
+    "Option B": "03:07",
+    "Option C": "05:03",
+    "Option D": "07:03",
+    "Answer": "C"
+  },
+  {
+    "Question": "In a bag, there are coins of 25 p, 10 p, and 5 p in the ratio of 1 : 2 : 3. If there is Rs. 30 in all, how many 5 p coins are there?",
+    "Option A": 50,
+    "Option B": 100,
+    "Option C": 150,
+    "Option D": 200,
+    "Answer": "C"
+  },
+  {
+    "Question": "A man takes loan from a bank at 12% p.a. simple interest. After 3 years, he paid Rs. 5400 as interest. What was the principal amount?",
+    "Option A": "Rs. 2000",
+    "Option B": "Rs. 10,000",
+    "Option C": "Rs. 15,000",
+    "Option D": "Rs. 20,000",
+    "Answer": "C"
+  },
+  {
+    "Question": "A flagstaff 17.5 m high casts a shadow 40.25 m long. What is the height of a building that casts a shadow 28.75 m long under similar conditions?",
+    "Option A": "10 m",
+    "Option B": "12.5 m",
+    "Option C": "17.5 m",
+    "Option D": "21.25 m",
+    "Answer": "B"
+  },
+  {
+    "Question": "The reflex angle between the hands of a clock at 10:25 is:",
+    "Option A": "180º",
+    "Option B": "192 ½º",
+    "Option C": "195º",
+    "Option D": "197 ½º",
+    "Answer": "D"
+  },
+  {
+    "Question": "The diagonal of a rectangle is 41 cm, and its area is 20 cm². What is the perimeter of the rectangle?",
+    "Option A": "9 cm",
+    "Option B": "18 cm",
+    "Option C": "20 cm",
+    "Option D": "41 cm",
+    "Answer": "B"
+  },
+  {
+    "Question": "A, B, and C can complete a task in 24, 6, and 12 days respectively. How many days will they take to finish the task if working together?",
+    "Option A": "1 day",
+    "Option B": "7/24 day",
+    "Option C": "3 3/7 days",
+    "Option D": "4 days",
+    "Answer": "C"
+  },
+  {
+    "Question": "A train overtakes two persons walking along a railway track. The first one walks at 4.5 km/hr, and the other one at 5.4 km/hr. The train needs 8.4 and 8.5 seconds respectively to overtake them. What is the speed of the train?",
+    "Option A": "66 km/hr",
+    "Option B": "72 km/hr",
+    "Option C": "78 km/hr",
+    "Option D": "81 km/hr",
+    "Answer": "D"
+  },
+  {
+    "Question": "A train of 240 meters long passes a pole in 24 seconds. How long will it take to pass a platform 650 meters long?",
+    "Option A": "65 sec",
+    "Option B": "89 sec",
+    "Option C": "100 sec",
+    "Option D": "150 sec",
+    "Answer": "B"
+  },
+  {
+    "Question": "How many seconds will a 500-meter-long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?",
+    "Option A": "25 sec",
+    "Option B": "30 sec",
+    "Option C": "40 sec",
+    "Option D": "45 sec",
+    "Answer": "B"
+  },
+  {
+    "Question": "In a 500 m race, the ratio of the speeds of two contestants A and B is 3 : 4. A has a start of 140 m. Then, A wins by:",
+    "Option A": "60 m",
+    "Option B": "40 m",
+    "Option C": "20 m",
+    "Option D": "10 m",
+    "Answer": "C"
+  },
+  {
+    "Question": "A boatman goes 2 km against the current of the stream in 1 hour and goes 1 km along the current in 10 minutes. How long will it take to go 5 km in stationary water?",
+    "Option A": "40 minutes",
+    "Option B": "1 hour",
+    "Option C": "1 hr 15 min",
+    "Option D": "1 hr 30 min",
+    "Answer": "C"
+  },
+  {
+    "Question": "Two goods trains each 500 m long are running in opposite directions on parallel tracks at 45 km/hr and 30 km/hr, respectively. The time taken by the slower train to pass the driver of the faster one is:",
+    "Option A": "12 sec",
+    "Option B": "24 sec",
+    "Option C": "48 sec",
+    "Option D": "60 sec",
+    "Answer": "B"
+  },
+  {
+    "Question": "A man sells two buffaloes for Rs. 7,820 each. On one he gains 15% and on the other, he loses 15%. His total gain or loss in the transaction is",
+    "Option A": "2.5% gain",
+    "Option B": "2.25% loss",
+    "Option C": "2% loss",
+    "Option D": "5% loss",
+    "Answer": "B"
+  },
+  {
+    "Question": "One ship goes along the stream direction 28 km and in opposite direction 13 km in 5 hrs for each direction. What is the velocity of the stream?",
+    "Option A": "1.5 kmph",
+    "Option B": "2.5 kmph",
+    "Option C": "1.8 kmph",
+    "Option D": "2 kmph",
+    "Answer": "A"
+  },
+  {
+    "Question": "Which one of the words given below is different from others?",
+    "Option A": "Orange",
+    "Option B": "Grape",
+    "Option C": "Apricot",
+    "Option D": "Raspberry",
+    "Answer": "C"
+  },
+  {
+    "Question": "Complete the series: 5, 20, 24, 6, 2, 8, ?",
+    "Option A": 12,
+    "Option B": 32,
+    "Option C": 34,
+    "Option D": 36,
+    "Answer": "A"
+  },
+  {
+    "Question": "A can have a piece of work done in 8 days, B can work three times faster than A, C can work five times faster than A. How many days will they take to do the work together?",
+    "Option A": "3 days",
+    "Option B": "8/9 days",
+    "Option C": "4 days",
+    "Option D": "None of the above",
+    "Answer": "B"
+  },
+  {
+    "Question": "A sum of Rs. 427 is to be divided among A, B, and C in such a way that 3 times A's share, 4 times B's share, and 7 times C's share are all equal. The share of C is",
+    "Option A": "Rs. 84",
+    "Option B": "Rs. 76",
+    "Option C": "Rs. 98",
+    "Option D": "Rs. 34",
+    "Answer": "A"
+  },
+  {
+    "Question": "In a race of 200 m, A can beat B by 31 m and C by 18 m. In a race of 350 m, C will beat B by",
+    "Option A": "22.75 m",
+    "Option B": "25 m",
+    "Option C": "19.5 m",
+    "Option D": 7,
+    "Answer": "A"
+  },
+  {
+    "Question": "A man took a loan from a bank at the rate of 12% p.a. simple interest. After 3 years, he had to pay Rs. 5400 as interest only for the period. The principal amount borrowed by him was",
+    "Option A": "Rs. 2000",
+    "Option B": "Rs. 10,000",
+    "Option C": "Rs. 15,000",
+    "Option D": "Rs. 20,000",
+    "Answer": "C"
+  },
+  {
+    "Question": "A man walked diagonally across a square lot. Approximately, what was the percent saved by not walking along the edges?",
+    "Option A": "20%",
+    "Option B": "24%",
+    "Option C": "30%",
+    "Option D": "33%",
+    "Answer": "C"
+  },
+  {
+    "Question": "How much time will the leak take to empty the full cistern? (I. The cistern is normally filled in 9 hours. II. It takes one hour more than usual to fill the cistern because of the leak.)",
+    "Option A": "I alone sufficient",
+    "Option B": "II alone sufficient",
+    "Option C": "Either I or II alone",
+    "Option D": "Both I and II are necessary",
+    "Answer": "D"
+  },
+  {
+    "Question": "A metallic sheet is of rectangular shape with dimensions 48 m x 36 m. From each of its corners, a square is cut off to make an open box. If the length of the square is 8 m, the volume of the box is:",
+    "Option A": "4830 m³",
+    "Option B": "5120 m³",
+    "Option C": "6420 m³",
+    "Option D": "8960 m³",
+    "Answer": "B"
+  },
+  {
+    "Question": "The reflex angle between the hands of a clock at 10:25 is:",
+    "Option A": "180º",
+    "Option B": "192.5º",
+    "Option C": "195º",
+    "Option D": "197.5º",
+    "Answer": "D"
+  },
+  {
+    "Question": "The cost price of Rs. 100 stock at 4% discount, when brokerage is 1/4%, is:",
+    "Option A": "Rs. 96",
+    "Option B": "Rs. 96.25",
+    "Option C": "Rs. 96.50",
+    "Option D": "Rs. 97",
+    "Answer": "C"
+  },
+  {
+    "Question": "Three candidates contested an election and received 1136, 7636, and 11628 votes respectively. What percentage of the total votes did the winning candidate get?",
+    "Option A": "57%",
+    "Option B": "60%",
+    "Option C": "65%",
+    "Option D": "90%",
+    "Answer": "A"
+  },
+  {
+    "Question": "A man buys a watch for Rs. 1950 in cash and sells it for Rs. 2200 at a credit of 1 year. If the rate of interest is 10% per annum, the man:",
+    "Option A": "gains Rs. 55",
+    "Option B": "gains Rs. 50",
+    "Option C": "loses Rs. 30",
+    "Option D": "gains Rs. 30",
+    "Answer": "B"
+  },
+  {
+    "Question": "An error of 2% in excess is made while measuring the side of a square. The percentage of error in the calculated area is:",
+    "Option A": "2%",
+    "Option B": "2.02%",
+    "Option C": "4%",
+    "Option D": "4.04%",
+    "Answer": "D"
+  },
+  {
+    "Question": "In a shower, 5 cm of rain falls. The volume of water that falls on 1.5 hectares of ground is:",
+    "Option A": "75 cu. m",
+    "Option B": "750 cu. m",
+    "Option C": "7500 cu. m",
+    "Option D": "75000 cu. m",
+    "Answer": "B"
+  },
+  {
+    "Question": "The ratio between the length and breadth of a rectangular park is 3:2. If a man cycling along the boundary at 12 km/hr completes one round in 8 minutes, the area of the park is:",
+    "Option A": "15360 sq. m",
+    "Option B": "153600 sq. m",
+    "Option C": "30720 sq. m",
+    "Option D": "307200 sq. m",
+    "Answer": "B"
+  },
+  {
+    "Question": "The slant height of a right circular cone is 10 m and its height is 8 m. Find the area of its curved surface:",
+    "Option A": "30 m²",
+    "Option B": "40 m²",
+    "Option C": "60 m²",
+    "Option D": "80 m²",
+    "Answer": "C"
+  },
+  {
+    "Question": "If 40% of a number is equal to two-third of another number, what is the ratio of the first number to the second number?",
+    "Option A": "02:05",
+    "Option B": "03:07",
+    "Option C": "05:03",
+    "Option D": "07:03",
+    "Answer": "C"
+  },
+  {
+    "Question": "In a bag, there are coins of 25 p, 10 p, and 5 p in the ratio of 1 : 2 : 3. If there is Rs. 30 in all, how many 5 p coins are there?",
+    "Option A": 50,
+    "Option B": 100,
+    "Option C": 150,
+    "Option D": 200,
+    "Answer": "C"
+  },
+  {
+    "Question": "A man takes loan from a bank at 12% p.a. simple interest. After 3 years, he paid Rs. 5400 as interest. What was the principal amount?",
+    "Option A": "Rs. 2000",
+    "Option B": "Rs. 10,000",
+    "Option C": "Rs. 15,000",
+    "Option D": "Rs. 20,000",
+    "Answer": "C"
+  },
+  {
+    "Question": "A flagstaff 17.5 m high casts a shadow 40.25 m long. What is the height of a building that casts a shadow 28.75 m long under similar conditions?",
+    "Option A": "10 m",
+    "Option B": "12.5 m",
+    "Option C": "17.5 m",
+    "Option D": "21.25 m",
+    "Answer": "B"
+  },
+  {
+    "Question": "The reflex angle between the hands of a clock at 10:25 is:",
+    "Option A": "180º",
+    "Option B": "192.5º",
+    "Option C": "195º",
+    "Option D": "197.5º",
+    "Answer": "D"
+  },
+  {
+    "Question": "The diagonal of a rectangle is 41 cm, and its area is 20 cm². What is the perimeter of the rectangle?",
+    "Option A": "9 cm",
+    "Option B": "18 cm",
+    "Option C": "20 cm",
+    "Option D": "41 cm",
+    "Answer": "B"
+  },
+  {
+    "Question": "A, B, and C can complete a task in 24, 6, and 12 days respectively. How many days will they take to finish the task if working together?",
+    "Option A": "1 day",
+    "Option B": "7/24 day",
+    "Option C": "3 3/7 days",
+    "Option D": "4 days",
+    "Answer": "C"
+  },
+  {
+    "Question": "Two trains running in opposite directions cross a man standing on the platform in 27 seconds and 17 seconds respectively, and they cross each other in 23 seconds. The ratio of their speeds is:",
+    "Option A": "1:3",
+    "Option B": "3:2",
+    "Option C": "3:4",
+    "Option D": "None of these",
+    "Answer": "B"
+  },
+  {
+    "Question": "A train overtakes two persons walking along a railway track. The first one walks at 4.5 km/hr, and the other one at 5.4 km/hr. The train needs 8.4 and 8.5 seconds respectively to overtake them. What is the speed of the train?",
+    "Option A": "66 km/hr",
+    "Option B": "72 km/hr",
+    "Option C": "78 km/hr",
+    "Option D": "81 km/hr",
+    "Answer": "D"
+  },
+  {
+    "Question": "A train of 240 meters long passes a pole in 24 seconds. How long will it take to pass a platform 650 meters long?",
+    "Option A": "65 sec",
+    "Option B": "89 sec",
+    "Option C": "100 sec",
+    "Option D": "150 sec",
+    "Answer": "B"
+  },
+  {
+    "Question": "How many seconds will a 500-meter-long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?",
+    "Option A": "25 sec",
+    "Option B": "30 sec",
+    "Option C": "40 sec",
+    "Option D": "45 sec",
+    "Answer": "B"
+  },
+  {
+    "Question": "In a 500 m race, the ratio of the speeds of two contestants A and B is 3 : 4. A has a start of 140 m. Then, A wins by:",
+    "Option A": "60 m",
+    "Option B": "40 m",
+    "Option C": "20 m",
+    "Option D": "10 m",
+    "Answer": "C"
+  },
+  {
+    "Question": "A boatman goes 2 km against the current of the stream in 1 hour and goes 1 km along the current in 10 minutes. How long will it take to go 5 km in stationary water?",
+    "Option A": "40 minutes",
+    "Option B": "1 hour",
+    "Option C": "1 hr 15 min",
+    "Option D": "1 hr 30 min",
+    "Answer": "C"
+  },
+  {
+    "Question": "Two goods trains each 500 m long are running in opposite directions on parallel tracks at 45 km/hr and 30 km/hr, respectively. The time taken by the slower train to pass the driver of the faster one is:",
+    "Option A": "12 sec",
+    "Option B": "24 sec",
+    "Option C": "48 sec",
+    "Option D": "60 sec",
+    "Answer": "B"
+  },
+  {
+    "Question": "A man sells two buffaloes for Rs. 7,820 each. On one he gains 15% and on the other, he loses 15%. His total gain or loss in the transaction is:",
+    "Option A": "2.5% gain",
+    "Option B": "2.25% loss",
+    "Option C": "2% loss",
+    "Option D": "5% loss",
+    "Answer": "B"
+  },
+  {
+    "Question": "A metallic sheet is of rectangular shape with dimensions 48 m x 36 m. From each of its corners, a square is cut off to make an open box. If the length of the square is 8 m, the volume of the box is:",
+    "Option A": "4830 m³",
+    "Option B": "5120 m³",
+    "Option C": "6420 m³",
+    "Option D": "8960 m³",
+    "Answer": "B"
+  },
+  {
+    "Question": "The cost price of Rs. 100 stock at 4% discount, when brokerage is 1/4%, is:",
+    "Option A": "Rs. 96",
+    "Option B": "Rs. 96.25",
+    "Option C": "Rs. 96.50",
+    "Option D": "Rs. 97",
+    "Answer": "C"
+  },
+  {
+    "Question": "Three candidates contested an election and received 1136, 7636, and 11628 votes respectively. What percentage of the total votes did the winning candidate get?",
+    "Option A": "57%",
+    "Option B": "60%",
+    "Option C": "65%",
+    "Option D": "90%",
+    "Answer": "A"
+  },
+  {
+    "Question": "A man buys a watch for Rs. 1950 in cash and sells it for Rs. 2200 at a credit of 1 year. If the rate of interest is 10% per annum, the man:",
+    "Option A": "gains Rs. 55",
+    "Option B": "gains Rs. 50",
+    "Option C": "loses Rs. 30",
+    "Option D": "gains Rs. 30",
+    "Answer": "B"
+  },
+  {
+    "Question": "An error of 2% in excess is made while measuring the side of a square. The percentage of error in the calculated area is:",
+    "Option A": "2%",
+    "Option B": "2.02%",
+    "Option C": "4%",
+    "Option D": "4.04%",
+    "Answer": "D"
+  },
+  {
+    "Question": "In a shower, 5 cm of rain falls. The volume of water that falls on 1.5 hectares of ground is:",
+    "Option A": "75 cu. m",
+    "Option B": "750 cu. m",
+    "Option C": "7500 cu. m",
+    "Option D": "75000 cu. m",
+    "Answer": "B"
+  },
+  {
+    "Question": "The ratio between the length and breadth of a rectangular park is 3:2. If a man cycling along the boundary at 12 km/hr completes one round in 8 minutes, the area of the park is:",
+    "Option A": "15360 sq. m",
+    "Option B": "153600 sq. m",
+    "Option C": "30720 sq. m",
+    "Option D": "307200 sq. m",
+    "Answer": "B"
+  },
+  {
+    "Question": "The slant height of a right circular cone is 10 m and its height is 8 m. Find the area of its curved surface:",
+    "Option A": "30 m²",
+    "Option B": "40 m²",
+    "Option C": "60 m²",
+    "Option D": "80 m²",
+    "Answer": "C"
+  },
+  {
+    "Question": "A man wants to sell his scooter. There are two offers, one at Rs. 12,000 cash and the other a credit of Rs. 12,880 to be paid after 8 months, money being at 18% per annum. Which is the better offer?",
+    "Option A": "Rs. 12,000 in cash",
+    "Option B": "Rs. 12,880 at credit",
+    "Option C": "Both are equally good",
+    "Option D": "NIL",
+    "Answer": "A"
+  },
+  {
+    "Question": "A man standing at a point P is watching the top of a tower, which makes an angle of elevation of 30º with the man's eye. The man walks some distance towards the tower to watch its top and the angle of the elevation becomes 60º. What is the distance between the base of the tower and the point P?",
+    "Option A": "43 units",
+    "Option B": "8 units",
+    "Option C": "12 units",
+    "Option D": "Data inadequate",
+    "Answer": "D"
+  },
+  {
+    "Question": "In how many different ways can the letters of the word 'DETAIL' be arranged in such a way that the vowels occupy only the odd positions?",
+    "Option A": 32,
+    "Option B": 48,
+    "Option C": 36,
+    "Option D": 60,
+    "Answer": "C"
+  },
+  {
+    "Question": "Two dice are tossed. The probability that the total score is a prime number is:",
+    "Option A": 1,
+    "Option B": "5/12",
+    "Option C": "1/2",
+    "Option D": "7/9",
+    "Answer": "B"
+  },
+  {
+    "Question": "An observer 1.6 m tall is 203 m away from a tower. The angle of elevation from his eye to the top of the tower is 30º. The height of the tower is:",
+    "Option A": "21.6 m",
+    "Option B": "23.2 m",
+    "Option C": "24.72 m",
+    "Option D": "None of these",
+    "Answer": "A"
+  },
+  {
+    "Question": "The cost price of a Rs. 100 stock at 4% discount, when brokerage is 1/4%, is:",
+    "Option A": "Rs. 95.75",
+    "Option B": "Rs. 96",
+    "Option C": "Rs. 96.25",
+    "Option D": "Rs. 104.25",
+    "Answer": "C"
+  },
+  {
+    "Question": "If 40% of a number is equal to two-thirds of another number, what is the ratio of the first number to the second number?",
+    "Option A": "2:5",
+    "Option B": "3:7",
+    "Option C": "5:3",
+    "Option D": "7:3",
+    "Answer": "C"
+  },
+  {
+    "Question": "In a bag, there are coins of 25 p, 10 p, and 5 p in the ratio of 1:2:3. If there is Rs. 30 in all, how many 5 p coins are there?",
+    "Option A": 50,
+    "Option B": 100,
+    "Option C": 150,
+    "Option D": 200,
+    "Answer": "C"
+  },
+  {
+    "Question": "A fires 5 shots to B's 3, but A kills only once in 3 shots while B kills once in 2 shots. When B has missed 27 times, A has killed:",
+    "Option A": "30 birds",
+    "Option B": "60 birds",
+    "Option C": "72 birds",
+    "Option D": "90 birds",
+    "Answer": "A"
+  },
+  {
+    "Question": "A train covers a certain distance at a speed of 300 km/hr, and the same distance at 200 km/hr. Find the average speed of the train:",
+    "Option A": "240 km/hr",
+    "Option B": "225 km/hr",
+    "Option C": "250 km/hr",
+    "Option D": "275 km/hr",
+    "Answer": "A"
+  },
+  {
+    "Question": "Two students appeared at an examination. One of them secured 9 marks more than the other, and his marks were 56% of the sum of their marks. What are the marks obtained by them?",
+    "Option A": "42, 33",
+    "Option B": "42, 36",
+    "Option C": "44, 33",
+    "Option D": "44, 36",
+    "Answer": "A"
+  },
+  {
+    "Question": "Two trains are running in opposite directions at 60 km/hr and 90 km/hr. If the length of each train is 500 m, how long will it take for the trains to cross each other?",
+    "Option A": "20 sec",
+    "Option B": "25 sec",
+    "Option C": "30 sec",
+    "Option D": "35 sec",
+    "Answer": "A"
+  },
+  {
+    "Question": "A certain amount earns simple interest of Rs. 1200 after 10 years. Had the interest been 2% more, how much more interest would it have earned?",
+    "Option A": "Rs. 25",
+    "Option B": "None of these",
+    "Option C": "Rs. 120",
+    "Option D": "Cannot be determined",
+    "Answer": "C"
+  },
+  {
+    "Question": "A man took a loan from a bank at the rate of 8% p.a. simple interest. After 4 years he had to pay Rs. 6200 as interest only for the period. The principal amount borrowed by him was:",
+    "Option A": "Rs. 17322",
+    "Option B": "Rs. 20245",
+    "Option C": "Rs. 18230",
+    "Option D": "Rs. 19375",
+    "Answer": "C"
+  },
+  {
+    "Question": "A and B can do a piece of work in 45 days and 40 days, respectively. They began to work together, but A leaves after some days and B completes the remaining work in 23 days. After how many days did A leave?",
+    "Option A": 9,
+    "Option B": 11,
+    "Option C": 12,
+    "Option D": 15,
+    "Answer": "A"
+  },
+  {
+    "Question": "The sum of ages of 5 children born at intervals of 3 years each is 50 years. What is the age of the youngest child?",
+    "Option A": "4 years",
+    "Option B": "8 years",
+    "Option C": "10 years",
+    "Option D": "None of these",
+    "Answer": "A"
+  },
+  {
+    "Question": "A father said to his son, \"I was as old as you are at the present at the time of your birth\". If the father's age is 38 years now, the son's age five years back was:",
+    "Option A": "14 years",
+    "Option B": "19 years",
+    "Option C": "33 years",
+    "Option D": "38 years",
+    "Answer": "A"
+  },
+  {
+    "Question": "A sum of Rs. 1360 has been divided among A, B, and C such that A gets 1/2 of what B gets, and B gets 1/3 of what C gets. B's share is:",
+    "Option A": "Rs. 120",
+    "Option B": "Rs. 160",
+    "Option C": "Rs. 240",
+    "Option D": "Rs. 300",
+    "Answer": "C"
+  },
+  {
+    "Question": "A man can swim downstream at 6 km/hr and upstream at 2 km/hr. His speed in still water is:",
+    "Option A": "4 km/hr",
+    "Option B": "2 km/hr",
+    "Option C": "6 km/hr",
+    "Option D": "1 km/hr",
+    "Answer": "A"
+  },
+  {
+    "Question": "Robert is traveling on his cycle and has calculated to reach point A at 2 P.M. if he travels at 10 kmph, he will reach there at 12 noon if he travels at 15 kmph. At what speed must he travel to reach A at 1 P.M.?",
+    "Option A": "8 kmph",
+    "Option B": "11 kmph",
+    "Option C": "12 kmph",
+    "Option D": "14 kmph",
+    "Answer": "C"
+  },
+  {
+    "Question": "A man rows to a place 48 km distant and comes back in 14 hours. He finds that he can row 4 km with the stream in the same time as 3 km against the stream. The rate of the stream is:",
+    "Option A": "1 km/hr",
+    "Option B": "1.5 km/hr",
+    "Option C": "2 km/hr",
+    "Option D": "2.5 km/hr",
+    "Answer": "A"
+  },
+  {
+    "Question": "In what ratio must a grocer mix two varieties of pulses costing Rs. 15 and Rs. 20 per kg respectively so as to get a mixture worth Rs. 16.50 per kg?",
+    "Option A": "3:7",
+    "Option B": "5:7",
+    "Option C": "7:3",
+    "Option D": "7:5",
+    "Answer": "C"
+  },
+  {
+    "Question": "A, B, and C can do a piece of work in 20, 30, and 60 days, respectively. In how many days can A do the work if he is assisted by B and C on every third day?",
+    "Option A": "12 days",
+    "Option B": "15 days",
+    "Option C": "16 days",
+    "Option D": "18 days",
+    "Answer": "B"
+  },
+  {
+    "Question": "Two trains are running at 40 km/hr and 20 km/hr respectively in the same direction. The fast train completely passes a man sitting in the slower train in 5 seconds. What is the length of the fast train?",
+    "Option A": "23 m",
+    "Option B": "27 m",
+    "Option C": "29 m",
+    "Option D": "50 m",
+    "Answer": "B"
+  },
+  {
+    "Question": "A train moves past a telegraph post and a bridge 264 m long in 8 seconds and 20 seconds respectively. What is the speed of the train?",
+    "Option A": "69.5 km/hr",
+    "Option B": "70 km/hr",
+    "Option C": "79 km/hr",
+    "Option D": "79.2 km/hr",
+    "Answer": "D"
+  },
+  {
+    "Question": "How many seconds will a 500-meter long train take to cross a man walking with a speed of 3 km/hr in the direction of the moving train if the speed of the train is 63 km/hr?",
+    "Option A": 25,
+    "Option B": 30,
+    "Option C": 40,
+    "Option D": 45,
+    "Answer": "B"
+  },
+  {
+    "Question": "The salaries of A, B, and C are in the ratio 2 : 3 : 5. If increments of 15%, 10%, and 20% are allowed respectively in their salaries, what will be the new ratio of their salaries?",
+    "Option A": "3:3:10",
+    "Option B": "10:11:20",
+    "Option C": "23:33:60",
+    "Option D": "Cannot be determined",
+    "Answer": "C"
+  },
+  {
+    "Question": "The sum of ages of 5 children born at intervals of 3 years each is 50 years. What is the age of the youngest child?",
+    "Option A": "4 years",
+    "Option B": "8 years",
+    "Option C": "10 years",
+    "Option D": "None of these",
+    "Answer": "A"
+  },
+  {
+    "Question": "A sum of Rs. 1360 has been divided among A, B, and C such that A gets 1/2 of what B gets, and B gets 1/3 of what C gets. B's share is:",
+    "Option A": "Rs. 120",
+    "Option B": "Rs. 160",
+    "Option C": "Rs. 240",
+    "Option D": "Rs. 300",
+    "Answer": "C"
+  },
+  {
+    "Question": "An error of 2% in excess is made while measuring the side of a square. The percentage of error in the calculated area is:",
+    "Option A": "2%",
+    "Option B": "2.02%",
+    "Option C": "4%",
+    "Option D": "4.04%",
+    "Answer": "D"
+  },
+  {
+    "Question": "In a shower, 5 cm of rain falls. The volume of water that falls on 1.5 hectares of ground is:",
+    "Option A": "75 cu. m",
+    "Option B": "750 cu. m",
+    "Option C": "7500 cu. m",
+    "Option D": "75000 cu. m",
+    "Answer": "B"
+  },
+  {
+    "Question": "The reflex angle between the hands of a clock at 10:25 is:",
+    "Option A": "180º",
+    "Option B": "192.5º",
+    "Option C": "195º",
+    "Option D": "197.5º",
+    "Answer": "D"
+  },
+  {
+    "Question": "Two goods trains each 500 m long are running in opposite directions on parallel tracks at 45 km/hr and 30 km/hr respectively. The time taken by the slower train to pass the driver of the faster one is:",
+    "Option A": "12 sec",
+    "Option B": "24 sec",
+    "Option C": "48 sec",
+    "Option D": "60 sec",
+    "Answer": "B"
+  },
+  {
+    "Question": "A metallic sheet is of rectangular shape with dimensions 48 m x 36 m. From each of its corners, a square is cut off to make an open box. If the length of the square is 8 m, the volume of the box is:",
+    "Option A": "4830 m³",
+    "Option B": "5120 m³",
+    "Option C": "6420 m³",
+    "Option D": "8960 m³",
+    "Answer": "B"
+  },
+  {
+    "Question": "A man sells two buffaloes for Rs. 7,820 each. On one he gains 15% and on the other, he loses 15%. His total gain or loss in the transaction is:",
+    "Option A": "2.5% gain",
+    "Option B": "2.25% loss",
+    "Option C": "2% loss",
+    "Option D": "5% loss",
+    "Answer": "B"
+  },
+  {
+    "Question": "A train overtakes two persons walking along a railway track. The first one walks at 4.5 km/hr, and the other at 5.4 km/hr. The train needs 8.4 and 8.5 seconds respectively to overtake them. What is the speed of the train?",
+    "Option A": "66 km/hr",
+    "Option B": "72 km/hr",
+    "Option C": "78 km/hr",
+    "Option D": "81 km/hr",
+    "Answer": "D"
+  },
+  {
+    "Question": "A boatman goes 2 km against the current of the stream in 1 hour and goes 1 km along the current in 10 minutes. How long will it take to go 5 km in stationary water?",
+    "Option A": "40 minutes",
+    "Option B": "1 hour",
+    "Option C": "1 hr 15 min",
+    "Option D": "1 hr 30 min",
+    "Answer": "C"
+  },
+  {
+    "Question": "What is the volume of a 32-meter high cylindrical tank?",
+    "Option A": "4928 m³",
+    "Option B": "4820 m³",
+    "Option C": "5040 m³",
+    "Option D": "4600 m³",
+    "Answer": "A"
+  },
+  {
+    "Question": "A, B, and C subscribe Rs. 50,000 for a business. A subscribes Rs. 4000 more than B and B Rs. 5000 more than C. Out of a total profit of Rs. 35,000, A receives:",
+    "Option A": "Rs. 8400",
+    "Option B": "Rs. 11,900",
+    "Option C": "Rs. 13,600",
+    "Option D": "Rs. 14,700",
+    "Answer": "D"
+  },
+  {
+    "Question": "The present worth of Rs. 2310 due 2 years hence, the rate of interest being 15% per annum, is:",
+    "Option A": "Rs. 1750",
+    "Option B": "Rs. 1680",
+    "Option C": "Rs. 1840",
+    "Option D": "Rs. 1443.75",
+    "Answer": "B"
+  },
+  {
+    "Question": "The average age of husband, wife, and their child 3 years ago was 27 years, and that of the wife and the child 5 years ago was 20 years. The present age of the husband is:",
+    "Option A": "35 years",
+    "Option B": "40 years",
+    "Option C": "50 years",
+    "Option D": "None of these",
+    "Answer": "B"
+  },
+  {
+    "Question": "The price of 2 sarees and 4 shirts is Rs. 1600. With the same money, one can buy 1 saree and 6 shirts. If one wants to buy 12 shirts, how much shall he have to pay?",
+    "Option A": "Rs. 1200",
+    "Option B": "Rs. 2400",
+    "Option C": "Rs. 4800",
+    "Option D": "Cannot be determined",
+    "Answer": "B"
+  },
+  {
+    "Question": "A sum of Rs. 725 is lent in the beginning of a year at a certain rate of interest. After 8 months, a sum of Rs. 362.50 more is lent but at the rate twice the former. At the end of the year, Rs. 33.50 is earned as interest from both loans. What was the original rate of interest?",
+    "Option A": "3.60%",
+    "Option B": "4.50%",
+    "Option C": "5%",
+    "Option D": "6%",
+    "Answer": "C"
+  },
+  {
+    "Question": "The ratio between the length and breadth of a rectangular park is 3:2. If a man cycling along the boundary of the park at 12 km/hr completes one round in 8 minutes, the area of the park (in sq. m) is:",
+    "Option A": 15360,
+    "Option B": 153600,
+    "Option C": 30720,
+    "Option D": 307200,
+    "Answer": "B"
+  },
+  {
+    "Question": "The slant height of a right circular cone is 10 m and its height is 8 m. Find the area of its curved surface:",
+    "Option A": "30 m²",
+    "Option B": "40 m²",
+    "Option C": "60 m²",
+    "Option D": "80 m²",
+    "Answer": "C"
+  },
+  {
+    "Question": "A man wants to sell his scooter. There are two offers, one at Rs. 12,000 cash and the other a credit of Rs. 12,880 to be paid after 8 months, money being at 18% per annum. Which is the better offer?",
+    "Option A": "Rs. 12,000 in cash",
+    "Option B": "Rs. 12,880 at credit",
+    "Option C": "Both are equally good",
+    "Option D": "Neither is good",
+    "Answer": "A"
+  },
+  {
+    "Question": "If log10 2 = 0.3010, then log2 10 is equal to:",
+    "Option A": 0.301,
+    "Option B": 0.699,
+    "Option C": 0.301,
+    "Option D": 1.301,
+    "Answer": "B"
+  },
+  {
+    "Question": "The product of two numbers is 120, and the sum of their squares is 289. The sum of the numbers is:",
+    "Option A": 20,
+    "Option B": 23,
+    "Option C": 169,
+    "Option D": "None of these",
+    "Answer": "B"
+  },
+  {
+    "Question": "The banker's discount of a certain sum of money is Rs. 72 and the true discount on the same sum for the same time is Rs. 60. The sum due is:",
+    "Option A": "Rs. 360",
+    "Option B": "Rs. 432",
+    "Option C": "Rs. 540",
+    "Option D": "Rs. 1080",
+    "Answer": "A"
+  }
+]

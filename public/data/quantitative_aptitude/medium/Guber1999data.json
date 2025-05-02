@@ -1,0 +1,502 @@
+[
+  {
+    "State": "Alabama",
+    "Spend": 4.405,
+    "StuTeaRat": 17.2,
+    "Salary": 31.144,
+    "PrcntTake": 8,
+    "SATV": 491,
+    "SATM": 538,
+    "SATT": 1029
+  },
+  {
+    "State": "Alaska",
+    "Spend": 8.963,
+    "StuTeaRat": 17.6,
+    "Salary": 47.951,
+    "PrcntTake": 47,
+    "SATV": 445,
+    "SATM": 489,
+    "SATT": 934
+  },
+  {
+    "State": "Arizona",
+    "Spend": 4.778,
+    "StuTeaRat": 19.3,
+    "Salary": 32.175,
+    "PrcntTake": 27,
+    "SATV": 448,
+    "SATM": 496,
+    "SATT": 944
+  },
+  {
+    "State": "Arkansas",
+    "Spend": 4.459,
+    "StuTeaRat": 17.1,
+    "Salary": 28.934,
+    "PrcntTake": 6,
+    "SATV": 482,
+    "SATM": 523,
+    "SATT": 1005
+  },
+  {
+    "State": "California",
+    "Spend": 4.992,
+    "StuTeaRat": 24,
+    "Salary": 41.078,
+    "PrcntTake": 45,
+    "SATV": 417,
+    "SATM": 485,
+    "SATT": 902
+  },
+  {
+    "State": "Colorado",
+    "Spend": 5.443,
+    "StuTeaRat": 18.4,
+    "Salary": 34.571,
+    "PrcntTake": 29,
+    "SATV": 462,
+    "SATM": 518,
+    "SATT": 980
+  },
+  {
+    "State": "Connecticut",
+    "Spend": 8.817,
+    "StuTeaRat": 14.4,
+    "Salary": 50.045,
+    "PrcntTake": 81,
+    "SATV": 431,
+    "SATM": 477,
+    "SATT": 908
+  },
+  {
+    "State": "Delaware",
+    "Spend": 7.03,
+    "StuTeaRat": 16.6,
+    "Salary": 39.076,
+    "PrcntTake": 68,
+    "SATV": 429,
+    "SATM": 468,
+    "SATT": 897
+  },
+  {
+    "State": "Florida",
+    "Spend": 5.718,
+    "StuTeaRat": 19.1,
+    "Salary": 32.588,
+    "PrcntTake": 48,
+    "SATV": 420,
+    "SATM": 469,
+    "SATT": 889
+  },
+  {
+    "State": "Georgia",
+    "Spend": 5.193,
+    "StuTeaRat": 16.3,
+    "Salary": 32.291,
+    "PrcntTake": 65,
+    "SATV": 406,
+    "SATM": 448,
+    "SATT": 854
+  },
+  {
+    "State": "Hawaii",
+    "Spend": 6.078,
+    "StuTeaRat": 17.9,
+    "Salary": 38.518,
+    "PrcntTake": 57,
+    "SATV": 407,
+    "SATM": 482,
+    "SATT": 889
+  },
+  {
+    "State": "Idaho",
+    "Spend": 4.21,
+    "StuTeaRat": 19.1,
+    "Salary": 29.783,
+    "PrcntTake": 15,
+    "SATV": 468,
+    "SATM": 511,
+    "SATT": 979
+  },
+  {
+    "State": "Illinois",
+    "Spend": 6.136,
+    "StuTeaRat": 17.3,
+    "Salary": 39.431,
+    "PrcntTake": 13,
+    "SATV": 488,
+    "SATM": 560,
+    "SATT": 1048
+  },
+  {
+    "State": "Indiana",
+    "Spend": 5.826,
+    "StuTeaRat": 17.5,
+    "Salary": 36.785,
+    "PrcntTake": 58,
+    "SATV": 415,
+    "SATM": 467,
+    "SATT": 882
+  },
+  {
+    "State": "Iowa",
+    "Spend": 5.483,
+    "StuTeaRat": 15.8,
+    "Salary": 31.511,
+    "PrcntTake": 5,
+    "SATV": 516,
+    "SATM": 583,
+    "SATT": 1099
+  },
+  {
+    "State": "Kansas",
+    "Spend": 5.817,
+    "StuTeaRat": 15.1,
+    "Salary": 34.652,
+    "PrcntTake": 9,
+    "SATV": 503,
+    "SATM": 557,
+    "SATT": 1060
+  },
+  {
+    "State": "Kentucky",
+    "Spend": 5.217,
+    "StuTeaRat": 17,
+    "Salary": 32.257,
+    "PrcntTake": 11,
+    "SATV": 477,
+    "SATM": 522,
+    "SATT": 999
+  },
+  {
+    "State": "Louisiana",
+    "Spend": 4.761,
+    "StuTeaRat": 16.8,
+    "Salary": 26.461,
+    "PrcntTake": 9,
+    "SATV": 486,
+    "SATM": 535,
+    "SATT": 1021
+  },
+  {
+    "State": "Maine",
+    "Spend": 6.428,
+    "StuTeaRat": 13.8,
+    "Salary": 31.972,
+    "PrcntTake": 68,
+    "SATV": 427,
+    "SATM": 469,
+    "SATT": 896
+  },
+  {
+    "State": "Maryland",
+    "Spend": 7.245,
+    "StuTeaRat": 17,
+    "Salary": 40.661,
+    "PrcntTake": 64,
+    "SATV": 430,
+    "SATM": 479,
+    "SATT": 909
+  },
+  {
+    "State": "Massachusetts",
+    "Spend": 7.287,
+    "StuTeaRat": 14.8,
+    "Salary": 40.795,
+    "PrcntTake": 80,
+    "SATV": 430,
+    "SATM": 477,
+    "SATT": 907
+  },
+  {
+    "State": "Michigan",
+    "Spend": 6.994,
+    "StuTeaRat": 20.1,
+    "Salary": 41.895,
+    "PrcntTake": 11,
+    "SATV": 484,
+    "SATM": 549,
+    "SATT": 1033
+  },
+  {
+    "State": "Minnesota",
+    "Spend": 6,
+    "StuTeaRat": 17.5,
+    "Salary": 35.948,
+    "PrcntTake": 9,
+    "SATV": 506,
+    "SATM": 579,
+    "SATT": 1085
+  },
+  {
+    "State": "Mississippi",
+    "Spend": 4.08,
+    "StuTeaRat": 17.5,
+    "Salary": 26.818,
+    "PrcntTake": 4,
+    "SATV": 496,
+    "SATM": 540,
+    "SATT": 1036
+  },
+  {
+    "State": "Missouri",
+    "Spend": 5.383,
+    "StuTeaRat": 15.5,
+    "Salary": 31.189,
+    "PrcntTake": 9,
+    "SATV": 495,
+    "SATM": 550,
+    "SATT": 1045
+  },
+  {
+    "State": "Montana",
+    "Spend": 5.692,
+    "StuTeaRat": 16.3,
+    "Salary": 28.785,
+    "PrcntTake": 21,
+    "SATV": 473,
+    "SATM": 536,
+    "SATT": 1009
+  },
+  {
+    "State": "Nebraska",
+    "Spend": 5.935,
+    "StuTeaRat": 14.5,
+    "Salary": 30.922,
+    "PrcntTake": 9,
+    "SATV": 494,
+    "SATM": 556,
+    "SATT": 1050
+  },
+  {
+    "State": "Nevada",
+    "Spend": 5.16,
+    "StuTeaRat": 18.7,
+    "Salary": 34.836,
+    "PrcntTake": 30,
+    "SATV": 434,
+    "SATM": 483,
+    "SATT": 917
+  },
+  {
+    "State": "New Hampshire",
+    "Spend": 5.859,
+    "StuTeaRat": 15.6,
+    "Salary": 34.72,
+    "PrcntTake": 70,
+    "SATV": 444,
+    "SATM": 491,
+    "SATT": 935
+  },
+  {
+    "State": "New Jersey",
+    "Spend": 9.774,
+    "StuTeaRat": 13.8,
+    "Salary": 46.087,
+    "PrcntTake": 70,
+    "SATV": 420,
+    "SATM": 478,
+    "SATT": 898
+  },
+  {
+    "State": "New Mexico",
+    "Spend": 4.586,
+    "StuTeaRat": 17.2,
+    "Salary": 28.493,
+    "PrcntTake": 11,
+    "SATV": 485,
+    "SATM": 530,
+    "SATT": 1015
+  },
+  {
+    "State": "New York",
+    "Spend": 9.623,
+    "StuTeaRat": 15.2,
+    "Salary": 47.612,
+    "PrcntTake": 74,
+    "SATV": 419,
+    "SATM": 473,
+    "SATT": 892
+  },
+  {
+    "State": "North Carolina",
+    "Spend": 5.077,
+    "StuTeaRat": 16.2,
+    "Salary": 30.793,
+    "PrcntTake": 60,
+    "SATV": 411,
+    "SATM": 454,
+    "SATT": 865
+  },
+  {
+    "State": "North Dakota",
+    "Spend": 4.775,
+    "StuTeaRat": 15.3,
+    "Salary": 26.327,
+    "PrcntTake": 5,
+    "SATV": 515,
+    "SATM": 592,
+    "SATT": 1107
+  },
+  {
+    "State": "Ohio",
+    "Spend": 6.162,
+    "StuTeaRat": 16.6,
+    "Salary": 36.802,
+    "PrcntTake": 23,
+    "SATV": 460,
+    "SATM": 515,
+    "SATT": 975
+  },
+  {
+    "State": "Oklahoma",
+    "Spend": 4.845,
+    "StuTeaRat": 15.5,
+    "Salary": 28.172,
+    "PrcntTake": 9,
+    "SATV": 491,
+    "SATM": 536,
+    "SATT": 1027
+  },
+  {
+    "State": "Oregon",
+    "Spend": 6.436,
+    "StuTeaRat": 19.9,
+    "Salary": 38.555,
+    "PrcntTake": 51,
+    "SATV": 448,
+    "SATM": 499,
+    "SATT": 947
+  },
+  {
+    "State": "Pennsylvania",
+    "Spend": 7.109,
+    "StuTeaRat": 17.1,
+    "Salary": 44.51,
+    "PrcntTake": 70,
+    "SATV": 419,
+    "SATM": 461,
+    "SATT": 880
+  },
+  {
+    "State": "Rhode Island",
+    "Spend": 7.469,
+    "StuTeaRat": 14.7,
+    "Salary": 40.729,
+    "PrcntTake": 70,
+    "SATV": 425,
+    "SATM": 463,
+    "SATT": 888
+  },
+  {
+    "State": "South Carolina",
+    "Spend": 4.797,
+    "StuTeaRat": 16.4,
+    "Salary": 30.279,
+    "PrcntTake": 58,
+    "SATV": 401,
+    "SATM": 443,
+    "SATT": 844
+  },
+  {
+    "State": "South Dakota",
+    "Spend": 4.775,
+    "StuTeaRat": 14.4,
+    "Salary": 25.994,
+    "PrcntTake": 5,
+    "SATV": 505,
+    "SATM": 563,
+    "SATT": 1068
+  },
+  {
+    "State": "Tennessee",
+    "Spend": 4.388,
+    "StuTeaRat": 18.6,
+    "Salary": 32.477,
+    "PrcntTake": 12,
+    "SATV": 497,
+    "SATM": 543,
+    "SATT": 1040
+  },
+  {
+    "State": "Texas",
+    "Spend": 5.222,
+    "StuTeaRat": 15.7,
+    "Salary": 31.223,
+    "PrcntTake": 47,
+    "SATV": 419,
+    "SATM": 474,
+    "SATT": 893
+  },
+  {
+    "State": "Utah",
+    "Spend": 3.656,
+    "StuTeaRat": 24.3,
+    "Salary": 29.082,
+    "PrcntTake": 4,
+    "SATV": 513,
+    "SATM": 563,
+    "SATT": 1076
+  },
+  {
+    "State": "Vermont",
+    "Spend": 6.75,
+    "StuTeaRat": 13.8,
+    "Salary": 35.406,
+    "PrcntTake": 68,
+    "SATV": 429,
+    "SATM": 472,
+    "SATT": 901
+  },
+  {
+    "State": "Virginia",
+    "Spend": 5.327,
+    "StuTeaRat": 14.6,
+    "Salary": 33.987,
+    "PrcntTake": 65,
+    "SATV": 428,
+    "SATM": 468,
+    "SATT": 896
+  },
+  {
+    "State": "Washington",
+    "Spend": 5.906,
+    "StuTeaRat": 20.2,
+    "Salary": 36.151,
+    "PrcntTake": 48,
+    "SATV": 443,
+    "SATM": 494,
+    "SATT": 937
+  },
+  {
+    "State": "West Virginia",
+    "Spend": 6.107,
+    "StuTeaRat": 14.8,
+    "Salary": 31.944,
+    "PrcntTake": 17,
+    "SATV": 448,
+    "SATM": 484,
+    "SATT": 932
+  },
+  {
+    "State": "Wisconsin",
+    "Spend": 6.93,
+    "StuTeaRat": 15.9,
+    "Salary": 37.746,
+    "PrcntTake": 9,
+    "SATV": 501,
+    "SATM": 572,
+    "SATT": 1073
+  },
+  {
+    "State": "Wyoming",
+    "Spend": 6.16,
+    "StuTeaRat": 14.9,
+    "Salary": 31.285,
+    "PrcntTake": 10,
+    "SATV": 476,
+    "SATM": 525,
+    "SATT": 1001
+  }
+]
