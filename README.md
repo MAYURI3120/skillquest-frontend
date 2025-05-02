@@ -1,4 +1,5 @@
 **SkillQuest** – Your Aptitude Prep Buddy for Placements
+
 *SkillQuest* is a focused web app that helps students and job seekers master aptitude skills needed to crack placement rounds. Practice quizzes, analyze performance, and boost your confidence—all in one place.
 
 **Features**
