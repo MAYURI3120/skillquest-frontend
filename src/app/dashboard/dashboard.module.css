@@ -9,7 +9,7 @@
 
 /* Header styles */
 .header {
-  background-color: #2c3e8e;
+  background-color: #573c75;
   color: white;
   padding: 15px 40px;
   display: flex;
@@ -36,13 +36,14 @@
 .nav a {
   color: white;
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 700;
 }
 
 .profile {
   display: flex;
   align-items: center;
   gap: 10px;
+  font-weight: 700;
 }
 
 .avatar {
@@ -80,6 +81,7 @@
 .welcomeText {
   font-size: 18px;
   color: #666;
+  font-weight: 600;
 }
 
 .dashboardGrid {
@@ -133,13 +135,13 @@
 
 .progressFill {
   height: 100%;
-  background-color: #4CAF50;
+  background-color: #81629be4;
   border-radius: 5px;
 }
 
 .button {
   display: inline-block;
-  background-color: #5664d2;
+  background-color: #5a4374;
   color: white;
   padding: 10px 20px;
   border-radius: 6px;
@@ -150,7 +152,7 @@
 }
 
 .button:hover {
-  background-color: #4352c8;
+  background-color: #885e92;
 }
 
 /* Responsive adjustments */
@@ -173,4 +175,37 @@
   .dashboardGrid {
     grid-template-columns: 1fr;
   }
+}
+
+/* XP Progress Bar */
+.xpBar {
+  height: 10px;
+  background: #e9ecef;
+  border-radius: 5px;
+  margin-top: 0.5rem;
+  overflow: hidden;
+}
+
+.xpProgress {
+  height: 100%;
+  background: linear-gradient(90deg, #8955b4e4 0%, #81629be4 100%);
+  width: 70%; /* Dynamic value */
+}
+
+/* Quest Cards */
+.questCard {
+  border-left: 4px solid var(--accent);
+}
+
+/* Achievements section */
+.achievementBadge {
+  width: 50px;
+  height: 50px;
+  background: linear-gradient(135deg, #f72585 0%, #b5179e 100%);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: bold;
 }

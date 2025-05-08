@@ -19,7 +19,7 @@ export default function Home() {
             width={40}
             height={40}
           />
-          <span>SkillQuest</span>
+          <span>AptiskillQuest</span>
         </div>
         
         <nav className={styles.nav}>
@@ -44,8 +44,8 @@ export default function Home() {
                 height={50}
               />
             </div>
-            <h1 className={styles.title}>Welcome to SkillQuest</h1>
-            <p className={styles.description}>
+            <h1 className={styles.title}>Welcome to AptiskillQuest</h1>
+            <p className={styles.description}>Your Aptitude Prep Buddy for Placements is here.
               Gamify your learning journey with <span className={styles.emphasis}>quests</span>, 
               <span className={styles.emphasis}> levels</span>, and interactive 
               <span className={styles.emphasis}> challenges</span>.
@@ -64,7 +64,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        <p>&copy; {new Date().getFullYear()} SkillQuest. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} AptiskillQuest. All rights reserved.</p>
       </footer>
     </div>
   );

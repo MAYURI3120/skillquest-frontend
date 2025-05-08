@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+  text-align: center;
+  padding: 2rem;
+}
+
+/* Changed from h1 to .heading */
+.heading {
+  color: #573c75;
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+/* Changed from p to .description */
+.description {
+  color: #6c757d;
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.homeLink {
+  color:#573c75;
+  font-weight: 600;
+  border: 2px solid #573c75;
+  padding: 0.75rem 1.5rem;
+  border-radius: 50px;
+  transition: all 0.3s ease;
+}
+
+.homeLink:hover {
+  background-color: #b2a4b6;
+  color:black;
+}

@@ -1,0 +1,82 @@
+.container {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  font-weight: 500;
+}
+
+.subtitle {
+  color: #6c757d;
+  margin-bottom: 2rem;
+  font-size:medium;
+  font-weight: 500;
+}
+
+.tabs {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.tab {
+  padding: 0.5rem 1rem;
+  background: none;
+  border: none;
+  border-bottom: 2px solid transparent;
+  cursor: pointer;
+  font-weight: 700;
+  color: #915e79;
+  font-size: medium;
+}
+
+.tab.active {
+  border-bottom-color: #573c75;
+  color: #573c75;
+}
+
+.questGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.questCard {
+  background: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  border: 1px solid #e9ecef;
+}
+
+.questCard h3 {
+  color: #2b2d42;
+  margin-bottom: 0.5rem;
+}
+
+.questCard p {
+  color: #6c757d;
+  margin-bottom: 1rem;
+}
+
+.meta {
+  display: flex;
+  justify-content: space-between;
+  color: #495057;
+  font-size: 0.9rem;
+  margin-bottom: 1.5rem;
+}
+
+.startButton {
+  width: 100%;
+  padding: 0.75rem;
+  background: #573c75;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.startButton:hover {
+  background: #885e92;
+}

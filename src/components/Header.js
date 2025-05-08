@@ -19,7 +19,7 @@ export default function Header() {
           width={32}
           height={32}
         />
-        <span>SkillQuest</span>
+        <span>AptiskillQuest</span>
       </Link>
       
       <nav className={styles.nav}>

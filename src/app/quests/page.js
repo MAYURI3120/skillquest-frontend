@@ -1,29 +1,67 @@
-"use client";
-import { useRouter } from "next/navigation";
+'use client';
+import { useState } from 'react';
+import styles from './page.module.css';
+
+// Local dataset (temporary - replace with backend later)
+const questsData = [
+  {
+    id: 1,
+    title: "Quantitative Aptitude",
+    description: "Master arithmetic, algebra, and geometry concepts",
+    difficulty: "Beginner",
+    rewards: "100 XP"
+  },
+  {
+    id: 2,
+    title: "Logical Reasoning",
+    description: "Solve puzzles and pattern recognition problems",
+    difficulty: "Intermediate", 
+    rewards: "150 XP"
+  },
+  {
+    id: 2,
+    title: "Verbal Reasoning",
+    description: "Dive into verbal reasoning by solving grammar problems",
+    difficulty: "Advance", 
+    rewards: "200 XP"
+  }
+];
 
 export default function Quests() {
-  const router = useRouter();
+  const [activeTab, setActiveTab] = useState('all');
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen p-6 bg-gradient-to-br from-indigo-100 to-white text-gray-800">
-      <h1 className="text-4xl sm:text-5xl font-bold mb-4">Available Quests</h1>
-      <p className="text-lg sm:text-xl text-center max-w-xl mb-8">
-        Choose your quest to begin your learning journey!
-      </p>
-      {/* Example quest items */}
-      <div className="space-y-4">
-        <button
-          onClick={() => router.push("/quiz")}
-          className="bg-indigo-600 hover:bg-indigo-700 text-white px-6 py-3 rounded-full text-lg transition"
+    <div className={styles.container}>
+      <h1>Available Quests</h1>
+      <p className={styles.subtitle}>Choose your quest to begin your learning journey</p>
+      
+      <div className={styles.tabs}>
+        <button 
+          className={`${styles.tab} ${activeTab === 'all' ? styles.active : ''}`}
+          onClick={() => setActiveTab('all')}
         >
-          Start Quest 1
+          All Quests
         </button>
-        <button
-          onClick={() => router.push("/quiz")}
-          className="bg-indigo-600 hover:bg-indigo-700 text-white px-6 py-3 rounded-full text-lg transition"
+        <button 
+          className={`${styles.tab} ${activeTab === 'active' ? styles.active : ''}`}
+          onClick={() => setActiveTab('active')}
         >
-          Start Quest 2
+          Active
         </button>
+      </div>
+
+      <div className={styles.questGrid}>
+        {questsData.map(quest => (
+          <div key={quest.id} className={styles.questCard}>
+            <h3>{quest.title}</h3>
+            <p>{quest.description}</p>
+            <div className={styles.meta}>
+              <span>Difficulty: {quest.difficulty}</span>
+              <span>Reward: {quest.rewards}</span>
+            </div>
+            <button className={styles.startButton}>Start Quest</button>
+          </div>
+        ))}
       </div>
     </div>
   );

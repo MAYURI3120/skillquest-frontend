@@ -8,11 +8,11 @@ import styles from './dashboard.module.css';
 
 export default function Dashboard() {
   const [user] = useState({
-    name: 'Alex',
+    name: 'Mayuri',
     level: 3,
     xp: 850,
     maxXp: 1200,
-    currentQuest: 'Mastering Algebra',
+    currentQuest: 'Mastering 3*3 Rubics cube',
     completions: 3,
     totalSteps: 5
   });
@@ -30,7 +30,7 @@ export default function Dashboard() {
             width={32}
             height={32}
           />
-          <span>SkillQuest</span>
+          <span>AptiskillQuest</span>
         </div>
         
         <nav className={styles.nav}>
@@ -40,7 +40,7 @@ export default function Dashboard() {
         </nav>
         
         <div className={styles.profile}>
-          <span>Alex</span>
+          <span>Mayuri</span>
           <div className={styles.avatar}>
             <Image 
               src="/api/placeholder/40/40" 
